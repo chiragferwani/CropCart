@@ -37,7 +37,7 @@
             android:value="2" />
             <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyD_LyQdVdq--ZIGM1jEhgVgh4pj1pvpbks" />
+        android:value="Enter Your Google API Key here for the markets feature to work" />
         
     </application>
 </manifest>
